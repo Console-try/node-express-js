@@ -1,0 +1,2 @@
+This FIle use async: This is File 1, This is File 2
+ This File created by '8-fs-async.js'.
